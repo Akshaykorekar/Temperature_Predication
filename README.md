@@ -1,4 +1,4 @@
-In this notebook I'll be using a LSTM NN to predict the temperature based on past observations. For this purpose, the steps followed are:
+I'll be using a LSTM NN to predict the temperature based on past observations. For this purpose, the steps followed are:
 
 Downsampling of the measurements to 1 every 12 hours
 Normalization of both feature and target variables
